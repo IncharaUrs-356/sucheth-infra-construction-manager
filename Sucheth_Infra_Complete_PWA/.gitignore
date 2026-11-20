@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+# Local business data: never commit these files to GitHub.
+construction.db
+*.db
+source-workbook.xlsm
